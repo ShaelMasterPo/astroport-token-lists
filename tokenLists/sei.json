@@ -1,4 +1,10 @@
-[
+{
+    "protocol": "Morbac",
+    "symbol": "MRBC",
+    "token": "sei1xydnaq24lar4ar2x6u8vnqzg4n8kes0vlp6rffwldp8ljf2kk8ms2mgfvx",
+    "icon": "/img/Morbac.png",
+    "decimals": 6
+  },
   {
     "protocol": "Astroport",
     "symbol": "ASTRO",
